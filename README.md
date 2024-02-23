@@ -6,7 +6,7 @@
 Passionate and experienced IT Security Professional with background in providing reactive and proactive services to support existing company infrastructure and assets in the most demanding environments. Adept at providing threat and forensic acquisition and analysis of various digital media, including computer desktop systems, laptops, tablets, mobile and smart phones, and other media formats. Vigilant about protecting sensitive data, networks and information systems from cyber theft and damage.
 
 <div align="center"> 
-  <a href="duongkhai@hotmail.com" target="_blank">
+  <a href="darreuswheeler@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a> 
   <a href="#" target="_blank">

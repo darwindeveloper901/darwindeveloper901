@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Darreus+Wheeler!;" />
+</h1>
+<h3 align="center">IT Security Professional </h3>
 
-<!--
-**darwindeveloper901/darwindeveloper901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate and experienced IT Security Professional with background in providing reactive and proactive services to support existing company infrastructure and assets in the most demanding environments. Adept at providing threat and forensic acquisition and analysis of various digital media, including computer desktop systems, laptops, tablets, mobile and smart phones, and other media formats. Vigilant about protecting sensitive data, networks and information systems from cyber theft and damage.
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <a href="duongkhai@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Python Projects**
+ 
+ 🌱 I’m currently learning **Digital Business & AI**
+
+💬 Ask me about **Python**
+
+⚡ Fun fact: **Octopuses have three hearts and blue blood!**
+
+ </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,javascript," /><br>
+</div>
+
+<br/>
+
+<h2 align="center">📊 Github Stats 📊</h2>
+
+![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwindeveloper901&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darwindeveloper901&show_icons=true&theme=radical)

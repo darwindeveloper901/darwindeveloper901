@@ -7,7 +7,7 @@ Passionate and experienced IT Security Professional with background in providing
 
 <div align="center"> 
   <a href="darreuswheeler@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank" />
   </a> 
   <a href="https://www.linkedin.com/in/darreuswheeler/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -18,11 +18,11 @@ Passionate and experienced IT Security Professional with background in providing
 
 <div align="center">
  
- 🔭 I’m currently working on **Application Security**  **Blockchain Security** 
+🔭 I’m currently working on **Application Security**  **Blockchain Security** 
  
- 🌱 I’m currently learning **Cyber Security**
+🌱 I’m currently learning **Cyber Security**
 
- Currently reading books : Rust for Rusteceans
+📚 Currently reading books : Rust for Rusteceans
 
 💬 Ask me about **Cybersecurity** **Security Operations**   **Application Security**  **Web 3 Security**
 

@@ -24,7 +24,7 @@ Passionate and experienced IT Security Professional with background in providing
 
 💬 Ask me about **Cybersecurity**  **Security Operations**   **Application Security**  **Web 3 Security**
 
-📧 Reaach me out : darreuswheeler@yahoo.com
+📧 Reach me out : darreuswheeler@yahoo.com
 
  </div>
 

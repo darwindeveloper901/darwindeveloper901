@@ -26,8 +26,7 @@ Passionate and experienced IT Security Professional with background in providing
 
 💬 Ask me about **Cybersecurity** **Security Operations**   **Application Security**  **Web 3 Security**
 
-📧 Reach me out : darreuswheeler@yahoo.com
-
+📧 Connect with Me: [darreuswheeler@yahoo.com](https://www.linkedin.com/in/darreuswheeler/)
  </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

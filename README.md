@@ -20,11 +20,9 @@ Passionate and experienced IT Security Professional with background in providing
  
  🔭 I’m currently working on **Python Projects**
  
- 🌱 I’m currently learning **Digital Business & AI**
+ 🌱 I’m currently learning **Cyber Security**
 
-💬 Ask me about **Python**
-
-⚡ Fun fact: **Octopuses have three hearts and blue blood!**
+💬 Ask me about **Cybersecurity**
 
 📧 Reaach me out : darreuswheeler@yahoo.com
 
@@ -33,7 +31,7 @@ Passionate and experienced IT Security Professional with background in providing
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,javascript," /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
 <br/>

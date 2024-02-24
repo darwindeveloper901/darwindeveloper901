@@ -22,6 +22,12 @@ Passionate and experienced IT Security Professional with background in providing
  
 🌱 I’m currently learning **Cyber Security**
 
+🎓 Certifications : **CISSP** **Security+** **CySA+** **ITIL**
+
+🛡️ SIEMs :  **Splunk** **Sentinel** **ArcSight** **Elastic** **QRadar**
+
+☁️ Cloud : **AWS** **Azure** **Oracle** 
+
 📚 Currently reading books  **Rust for Rusteceans**
 
 💬 Ask me about **Cybersecurity** **Security Operations**   **Application Security**  **Web 3 Security**
@@ -32,10 +38,12 @@ Passionate and experienced IT Security Professional with background in providing
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql," /><br>
 </div>
 
 <br/>
+
+
 
 <h2 align="center">📊 Github Stats 📊</h2>
 

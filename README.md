@@ -22,17 +22,18 @@ Passionate and experienced IT Security Professional with background in providing
  
 🌱 I’m currently learning **Cyber Security**
 
-🎓 Certifications : **CISSP** **Security+** **CySA+** **ITIL**
+🎓 Certifications : **CISSP**, **Security+**, **CySA+**, & **ITIL**
 
-🛡️ SIEMs :  **Splunk** **Sentinel** **ArcSight** **Elastic** **QRadar**
+🛡️ SIEMS :  **Splunk**, **Sentinel**, **ArcSight**. **Elastic**, & **QRadar**
 
 ☁️ Cloud : **AWS** **Azure** **Oracle** 
 
-📚 Currently reading books  **Rust for Rusteceans**
+📚 Currently reading books : **Rust for Rusteceans**
 
-💬 Ask me about **Cybersecurity** **Security Operations**   **Application Security**  **Web 3 Security**
+💬 Ask me about **Cybersecurity** | **Security Operations** | **Application Security** | **Web 3 Security**
 
 📧 Connect with Me: [darreuswheeler@yahoo.com](https://www.linkedin.com/in/darreuswheeler/)
+
  </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

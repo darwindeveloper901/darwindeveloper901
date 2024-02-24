@@ -22,7 +22,7 @@ Passionate and experienced IT Security Professional with background in providing
  
  🌱 I’m currently learning **Cyber Security**
 
-💬 Ask me about **Cybersecurity**
+💬 Ask me about **Cybersecurity**  **Security Operations**   **Application Security**  **Web 3 Security**
 
 📧 Reaach me out : darreuswheeler@yahoo.com
 

@@ -18,7 +18,7 @@ Passionate and experienced IT Security Professional with background in providing
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Projects**
+ 🔭 I’m currently working on **Application Security**  **Blockchain Security** 
  
  🌱 I’m currently learning **Cyber Security**
 

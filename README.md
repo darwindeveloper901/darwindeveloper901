@@ -28,6 +28,12 @@ Passionate and experienced IT Security Professional with background in providing
 
 ☁️ Cloud : **AWS** **Azure** **Oracle** 
 
+🛠️ Frameworks: **flask** **node.js** **web3.js**
+
+🖥️ Virtualization: **Oracle VM virtualbox**
+
+💾 Databases: **SQL** **MongoDB**
+
 📚 Currently reading books : **Rust for Rusteceans**
 
 💬 Ask me about **Cybersecurity** | **Security Operations** | **Application Security** | **Web 3 Security**

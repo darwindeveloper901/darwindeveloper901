@@ -54,5 +54,5 @@ Passionate and experienced IT Security Professional with background in providing
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwindeveloper901&show_icons=true&theme=radical)
+![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwindeveloper901&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darwindeveloper901&show_icons=true&theme=radical)

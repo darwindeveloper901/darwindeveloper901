@@ -26,13 +26,13 @@ Passionate and experienced IT Security Professional with background in providing
 
 🛡️ SIEMS :  **Splunk**, **Sentinel**, **ArcSight**. **Elastic**, & **QRadar**
 
-☁️ Cloud : **AWS** **Azure** **Oracle** 
+☁️ Cloud : **AWS**, **Azure**, & **Oracle** 
 
-🛠️ Frameworks: **flask** **node.js** **web3.js**
+🛠️ Frameworks: **flask**, **node.js**, & **web3.js**
 
 🖥️ Virtualization: **Oracle VM virtualbox**
 
-💾 Databases: **SQL** **MongoDB**
+💾 Databases: **SQL** & **MongoDB**
 
 📚 Currently reading books : **Rust for Rusteceans**
 
